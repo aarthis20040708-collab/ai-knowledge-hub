@@ -1,10 +1,14 @@
 # 🤖 AI Knowledge Hub & Document Assistant 🌍
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-28a745?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-knowledge-app-bj7y4qz9qomjzu3owefkxe.streamlit.app/)
+
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![High Speed AI Engine](https://img.shields.io/badge/AI%20Engine-LPU%20Inference-F05023?logo=fastapi&logoColor=white)](https://groq.com/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite3-003B57?logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+🚀 **Live Web App:** [https://ai-knowledge-app-bj7y4qz9qomjzu3owefkxe.streamlit.app/](https://ai-knowledge-app-bj7y4qz9qomjzu3owefkxe.streamlit.app/)
 
 An intelligent, multi-tenant AI Platform and Document Assistant powered by **ultra-fast LPU inference**, **multi-document analysis**, **real-time web search grounding**, **custom user workspaces**, and **instant executive PDF report exports**.
 
